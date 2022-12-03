@@ -1,11 +1,5 @@
 # Learning GIT
 
-## Table of Contents
+Hi, I'm learning GIT. 
 
-example_file.txt
-
-Hello world, I love using git. 
-
-modification of the file.
-
-Second modification of a file.
+LMK if you have any questions. 
